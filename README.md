@@ -4,7 +4,6 @@
 Sou desenvolvedor Kotlin e Dart, apaixonado por tecnologia e aprendizado constante. Trabalho com uma variedade de tecnologias, incluindo Android Nativo, Kotlin Multiplatform, Jetpack Compose, Springboot e Flutter. Tenho uma base sólida em Arquitetura de Software e Padrões de Projeto como MVVM e MVC. Adoro aprender, principalmente através de livros, e já li várias obras importantes na área de desenvolvimento de software.
 
 ## 🛠️ Tecnologias e Ferramentas
-Aqui estão os links corrigidos com a formatação correta:
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
