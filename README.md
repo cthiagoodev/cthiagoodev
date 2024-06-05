@@ -3,15 +3,6 @@
 ## Sobre mim
 Sou desenvolvedor Kotlin e Dart, apaixonado por tecnologia e aprendizado constante. Trabalho com uma variedade de tecnologias, incluindo Android Nativo, Kotlin Multiplatform, Jetpack Compose, Springboot e Flutter. Tenho uma base sólida em Arquitetura de Software e Padrões de Projeto como MVVM e MVC. Adoro aprender, principalmente através de livros, e já li várias obras importantes na área de desenvolvimento de software.
 
-## 📚 Livros que já li
-- Clean Code
-- Clean Architecture
-- Padrões de Projeto
-- Refatoração
-- Kotlin com Android
-- Android Nativo com Kotlin e MVVM
-- O Guia de Dart
-
 ## 🛠️ Tecnologias e Ferramentas
 Aqui estão os links corrigidos com a formatação correta:
 
@@ -30,6 +21,14 @@ Aqui estão os links corrigidos com a formatação correta:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+## 📚 Livros que já li
+- Clean Code por Robert C. Martin
+- Clean Architecture por Robert C. Martin
+- Padrões de Projeto  por Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides
+- Refatoração por Martin Fowler 
+- Kotlin com Android por Kassiano Resende 
+- Android Nativo com Kotlin e MVVM por Paulo Salvatore 
+- O Guia de Dart por Julio Bitencourt 
 
 ## 📫 Contato
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cthiagoodev@gmail.com)
