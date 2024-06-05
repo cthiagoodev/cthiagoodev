@@ -5,7 +5,7 @@ Sou desenvolvedor Kotlin e Dart, apaixonado por tecnologia e aprendizado constan
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-9F07B6?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 [![Android Nativo](https://img.shields.io/badge/Android_Nativo-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/?hl=pt-br)
