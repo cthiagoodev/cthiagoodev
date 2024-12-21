@@ -15,8 +15,8 @@ Valorizo o aprendizado das raízes da computação e acredito que ser um bom pro
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose?hl=pt-br)  
 [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://kotlinlang.org/docs/compose-multiplatform.html)  
 [![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)  
-[![Ktor](https://img.shields.io/badge/Ktor-3F51B5?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io/)  
-[![Koin](https://img.shields.io/badge/Koin-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://insert-koin.io/)  
+[![Ktor](https://img.shields.io/badge/Ktor-3F51B5?style=for-the-badge&logo=ktor&logoColor=white)](https://ktor.io/)  
+[![Koin](https://img.shields.io/badge/Koin-6DB33F?style=for-the-badge&logo=koin&logoColor=white)](https://insert-koin.io/)  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)  
 [![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
