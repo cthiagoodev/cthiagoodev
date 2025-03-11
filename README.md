@@ -1,7 +1,7 @@
 # Olá, eu sou Thiago Sousa 👋
 
 ## Sobre mim
-Sou **Mobile Software Engineer** especializado em Kotlin (Android, Spring Boot, Kotlin Multiplatform e Compose Multiplatform) e Flutter. Além disso, sou **IA Software Engineer**, utilizando Python para resolver problemas, com foco em inteligência artificial e análise de dados.  
+Sou **Mobile Software Engineer** especializado em Flutter e Kotlin. Além disso, sou **IA Software Engineer**, utilizando Python para resolver problemas, com foco em inteligência artificial e análise de dados.  
 Valorizo o aprendizado das raízes da computação e acredito que ser um bom programador significa não apenas saber resolver problemas, mas entender o *porquê* de cada solução e como melhorar ainda mais.
 
 > “Resolver problemas de forma eficiente e aprender como a tecnologia realmente funciona é o que me motiva todos os dias.”
