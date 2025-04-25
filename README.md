@@ -1,30 +1,51 @@
 # Olá, eu sou Thiago Sousa 👋
 
 ## Sobre mim
-Sou **Mobile Software Engineer** especializado em Flutter e Kotlin. Além disso, sou **IA Software Engineer**, utilizando Python para resolver problemas, com foco em inteligência artificial e análise de dados.  
-Valorizo o aprendizado das raízes da computação e acredito que ser um bom programador significa não apenas saber resolver problemas, mas entender o *porquê* de cada solução e como melhorar ainda mais.
+
+Sou **Engenheiro de Software Mobile** especializado em Dart, Kotlin e Swift. Gosto de criar experiências que transcendem os smartphones, desenvolvendo também para wearables, realidade aumentada e dispositivos inteligentes.  
+
+Sou fundador da **Mobile Devs Ceará**, comunidade criada para unir e fortalecer desenvolvedores mobile da região com foco em colaboração e evolução técnica.
 
 > “Resolver problemas de forma eficiente e aprender como a tecnologia realmente funciona é o que me motiva todos os dias.”
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-9F07B6?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)    
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+## 🔧 Tecnologias que trabalho
 
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose?hl=pt-br)  
-[![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://www.jetbrains.com/compose-multiplatform/)  
-[![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)  
-[![Ktor](https://img.shields.io/badge/Ktor-3F51B5?style=for-the-badge&logo=ktor&logoColor=white)](https://ktor.io/)  
-[![Koin](https://img.shields.io/badge/Koin-6DB33F?style=for-the-badge&logo=koin&logoColor=white&color=yellow)](https://insert-koin.io/)  
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)  
-[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+<div align="center">
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" alt="Dart"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" height="60" alt="Swift"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Jetpack_Compose_Logo.svg" width="60" height="60" alt="Jetpack Compose"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" height="60" alt="SwiftUI"/>
+  </a>
+</div>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio?hl=pt-br)
+---
+
+## 🚀 Projetos que participei
+
+- [**Vaden**](https://vaden.dev/) — Framework backend em Dart, criado pela comunidade Flutterando.  
+- Aplicativos multiplataforma com Flutter (Android/iOS) com foco em performance, escalabilidade e experiência do usuário.  
+- Desenvolvimento para wearables e smartwatches com código nativo em **Kotlin** e **Swift**.  
+- Aplicações com **Jetpack Compose** e **SwiftUI**, explorando o melhor das ferramentas modernas.
+
+---
 
 ## 📚 Livros que já li
+
 - *Clean Code* por Robert C. Martin  
 - *Clean Architecture* por Robert C. Martin  
 - *Padrões de Projeto* por Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides  
@@ -33,11 +54,18 @@ Valorizo o aprendizado das raízes da computação e acredito que ser um bom pro
 - *Android Nativo com Kotlin e MVVM* por Paulo Salvatore  
 - *O Guia de Dart* por Julio Bitencourt  
 
+---
+
 ## 📫 Contato
+
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cthiagoodev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoodev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoodev/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoodev/)  
+
+---
 
 ## ⚡ Curiosidades
+
 - Amo aprender como funciona a tecnologia, desde o básico até soluções mais avançadas.  
-- Sou movido pela busca constante de eficiência e pelas boas práticas de código.  
+- Sou movido pela busca constante de eficiência e boas práticas de código.  
 - Acredito que a satisfação do usuário final é tão importante quanto a robustez do sistema.  
