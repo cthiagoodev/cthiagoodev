@@ -1,16 +1,16 @@
-# Olá, eu sou Thiago Sousa 👋
+# Hello, I'm Thiago Sousa 👋
 
-## Sobre mim
+## About me
 
-Sou **Engenheiro de Software Mobile** especializado em Dart, Kotlin e Swift. Gosto de criar experiências que transcendem os smartphones, desenvolvendo também para wearables, realidade aumentada e dispositivos inteligentes.  
+I am a **Mobile Software Engineer** specialized in Dart, Kotlin, and Swift. I enjoy creating experiences that go beyond smartphones, developing also for wearables, augmented reality, and smart devices.  
 
-Sou fundador da **Mobile Devs Ceará**, comunidade criada para unir e fortalecer desenvolvedores mobile da região com foco em colaboração e evolução técnica.
+I am the founder of **Mobile Devs Ceará**, a community created to unite and empower mobile developers in the region with a focus on collaboration and technical growth.
 
-> “Resolver problemas de forma eficiente e aprender como a tecnologia realmente funciona é o que me motiva todos os dias.”
+> "Solving problems efficiently and learning how technology truly works is what motivates me every day."
 
 ---
 
-## 🔧 Tecnologias que trabalho
+## 🔧 Technologies I work with
 
 <div align="center">
   <a href="https://dart.dev" target="_blank">
@@ -35,28 +35,28 @@ Sou fundador da **Mobile Devs Ceará**, comunidade criada para unir e fortalecer
 
 ---
 
-## 🚀 Projetos que participei
+## 🚀 Projects I've contributed to
 
-- [**Vaden**](https://vaden.dev/) — Framework backend em Dart, criado pela comunidade Flutterando.  
-- Aplicativos multiplataforma com Flutter (Android/iOS) com foco em performance, escalabilidade e experiência do usuário.  
-- Desenvolvimento para wearables e smartwatches com código nativo em **Kotlin** e **Swift**.  
-- Aplicações com **Jetpack Compose** e **SwiftUI**, explorando o melhor das ferramentas modernas.
-
----
-
-## 📚 Livros que já li
-
-- *Clean Code* por Robert C. Martin  
-- *Clean Architecture* por Robert C. Martin  
-- *Padrões de Projeto* por Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides  
-- *Refatoração* por Martin Fowler  
-- *Kotlin com Android* por Kassiano Resende  
-- *Android Nativo com Kotlin e MVVM* por Paulo Salvatore  
-- *O Guia de Dart* por Julio Bitencourt  
+- [**Vaden**](https://vaden.dev/) — Backend framework in Dart, created by the Flutterando community.  
+- Cross-platform mobile apps with Flutter (Android/iOS) focusing on performance, scalability, and user experience.  
+- Development for wearables and smartwatches with native code in **Kotlin** and **Swift**.  
+- Applications with **Jetpack Compose** and **SwiftUI**, exploring the best of modern tools.
 
 ---
 
-## 📫 Contato
+## 📚 Books I've read
+
+- *Clean Code* by Robert C. Martin  
+- *Clean Architecture* by Robert C. Martin  
+- *Design Patterns* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides  
+- *Refactoring* by Martin Fowler  
+- *Kotlin with Android* by Kassiano Resende  
+- *Native Android with Kotlin and MVVM* by Paulo Salvatore  
+- *The Dart Guide* by Julio Bitencourt  
+
+---
+
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cthiagoodev@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoodev/)  
@@ -64,8 +64,8 @@ Sou fundador da **Mobile Devs Ceará**, comunidade criada para unir e fortalecer
 
 ---
 
-## ⚡ Curiosidades
+## ⚡ Fun facts
 
-- Amo aprender como funciona a tecnologia, desde o básico até soluções mais avançadas.  
-- Sou movido pela busca constante de eficiência e boas práticas de código.  
-- Acredito que a satisfação do usuário final é tão importante quanto a robustez do sistema.  
+- I love learning how technology works, from the basics to more advanced solutions.  
+- I am driven by the constant pursuit of efficiency and good coding practices.  
+- I believe that end-user satisfaction is just as important as system robustness.
