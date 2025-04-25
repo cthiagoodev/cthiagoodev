@@ -30,6 +30,15 @@ I am the founder of **Mobile Devs Ceará**, a community created to unite and emp
   </a>&nbsp;&nbsp;
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" height="60" alt="SwiftUI"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codemagic.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codemagic/codemagic-original.svg" width="60" height="60" alt="Codemagic"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
   </a>
 </div>
 
