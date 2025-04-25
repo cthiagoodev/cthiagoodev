@@ -26,7 +26,7 @@ Sou fundador da **Mobile Devs Ceará**, comunidade criada para unir e fortalecer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" height="60" alt="Swift"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Jetpack_Compose_Logo.svg" width="60" height="60" alt="Jetpack Compose"/>
+    <img src="https://developer.android.com/images/jetpack/compose-graphic-alpha.png" width="60" height="60" alt="Jetpack Compose"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" height="60" alt="SwiftUI"/>
