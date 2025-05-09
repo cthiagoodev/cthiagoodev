@@ -37,9 +37,6 @@ I am the founder of **Mobile Devs Ceará**, a community created to unite and emp
   <a href="https://codemagic.io" target="_blank">
     <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" width="60" height="60" alt="Codemagic"/>
   </a>&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
-  </a>
 </div>
 
 ---
