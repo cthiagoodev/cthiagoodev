@@ -24,7 +24,7 @@ I am the founder of **Mobile Devs Ceará**, a community to unite and empower mob
   </a>&nbsp;
   <!-- Kotlin Multiplatform -->
   <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank">
-    <img width="60" height="60" alt="Kotlin Multiplatform" src="data:image/svg+xml;utf8,<svg fill='none' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='__JETBRAINS_COM__LOGO_PREFIX__0' cx='0' cy='0' r='1' gradientTransform='rotate(135 20.814 11.259) scale(61.5)' gradientUnits='userSpaceOnUse'><stop stop-color='%2337BCFD'/><stop offset='0.58' stop-color='%237F52FF'/><stop offset='1' stop-color='%23C711E1'/></radialGradient></defs><path fill='url(%23__JETBRAINS_COM__LOGO_PREFIX__0)' d='M0 22.563V.083l22.48 22.48H0Zm0 2.874V48h.057L22.62 25.437H0Zm25.99-3.428L48 0H3.981l22.01 22.01Zm.03 4.094L4.121 48h43.794L26.02 26.103Z'/></svg>"/>
+    <img src="https://developer.android.com/static/images/picto-icons/kmp.svg?hl=pt-br" width="60" height="60" alt="Java"/>
   </a>&nbsp;
   <!-- Dart -->
   <a href="https://dart.dev" target="_blank">
