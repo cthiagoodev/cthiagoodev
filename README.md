@@ -24,7 +24,7 @@ I am the founder of **Mobile Devs Ceará**, a community to unite and empower mob
   </a>&nbsp;
   <!-- Kotlin Multiplatform -->
   <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank">
-    <img src="https://developer.android.com/static/images/picto-icons/kmp.svg?hl=pt-br" width="60" height="60" alt="Java"/>
+    <img src="https://developer.android.com/static/images/picto-icons/kmp.svg?hl=pt-br" width="50" height="50" alt="Kotlin Multiplatform"/>
   </a>&nbsp;
   <!-- Dart -->
   <a href="https://dart.dev" target="_blank">
