@@ -1,97 +1,53 @@
-# 👋 Hello, I'm Thiago Sousa
+# 👋 Olá, eu sou o Thiago Sousa
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I am a **Software Engineer** specialized in **Dart, Flutter, Kotlin, Java, Spring Boot**, and **Kotlin Multiplatform**.  
-I build cross-platform applications and scalable backend solutions following **clean architecture** and **best practices**.
+Sou **Engenheiro de Software** com sólida experiência em **Rust, Dart, Flutter, Kotlin, Java** e **Spring Boot**. 
+Desenvolvo aplicações cross-platform, sistemas de alta performance e soluções de backend escaláveis seguindo **Clean Architecture** e as melhores práticas de engenharia.
 
-I am the founder of **Mobile Devs Ceará**, a community to unite and empower mobile developers in the region.
+Sou fundador da **Mobile Devs Ceará**, uma comunidade focada em unir e fortalecer desenvolvedores mobile da nossa região.
 
-> "Solving problems efficiently and understanding how technology truly works is what motivates me every day."
+> "Resolver problemas de forma eficiente e dominar as entranhas da tecnologia é o que me move todos os dias."
 
 ---
 
-## 🔧 Tech Stack & Expertise
+## 🔧 Stack Tecnológica & Expertise
 
-<div align="center">
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-  </a>&nbsp;
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin"/>
-  </a>&nbsp;
-  <!-- Kotlin Multiplatform -->
-  <a href="https://kotlinlang.org/multiplatform" target="_blank">
-    <img src="https://developer.android.com/static/images/picto-icons/kmp.svg?hl=pt-br" width="50" height="50" alt="Kotlin Multiplatform"/>
-  </a>&nbsp;
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" alt="Dart"/>
-  </a>&nbsp;
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter"/>
-  </a>&nbsp;
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
-  </a>&nbsp;
-  <!-- Docker -->
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
-  </a>&nbsp;
-  <!-- Firebase -->
-  <a href="https://firebase.google.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
-  </a>
-</div>
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50" alt="Rust"/></a><br>**Rust** | <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/></a><br>**Dart** | <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/></a><br>**Flutter** |
+| <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/></a><br>**Kotlin** | <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/></a><br>**Java** | <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/></a><br>**Spring Boot** |
+| <a href="https://jaspr.site/"><img src="https://raw.githubusercontent.com/schultek/jaspr/main/docs/assets/logo_light.128.png" width="50" height="50" alt="Jaspr"/></a><br>**Jaspr** | <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/></a><br>**Docker** | <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></a><br>**Firebase** |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%20-blue" alt="Java"/> 
-  <img src="https://img.shields.io/badge/Kotlin-%20-orange" alt="Kotlin"/> 
-  <img src="https://img.shields.io/badge/Kotlin%20MP-%20-purple" alt="Kotlin Multiplatform"/> 
-  <img src="https://img.shields.io/badge/Dart-%20-009BFF" alt="Dart"/> 
-  <img src="https://img.shields.io/badge/Flutter-%20-02569B" alt="Flutter"/> 
-  <img src="https://img.shields.io/badge/Spring%20Boot-%20-6DB33F" alt="Spring Boot"/> 
-  <img src="https://img.shields.io/badge/Docker-%20-2496ED" alt="Docker"/> 
-  <img src="https://img.shields.io/badge/Firebase-%20-FFA611" alt="Firebase"/>
+---
+
+## 🚀 Projetos & Atuação
+
+* **Sistemas de Performance e Segurança:** Desenvolvimento de soluções robustas de baixo nível e alta performance utilizando **Rust**.
+* **Aplicações Mobile:** Criação de aplicativos modernos e escaláveis com **Dart** e **Flutter**.
+* **Backend:** Construção de APIs e microsserviços com **Spring Boot**, **Kotlin** e **Java**.
+* [**Vaden**](https://vaden.dev/) — Framework de backend em Dart ([Flutterando](https://flutterando.dev)).
+
+---
+
+## 📚 Biblioteca Pessoal (Destaques)
+
+* *Fundamentos da Arquitetura de Software* — Mark Richards & Neal Ford
+* *O Programador Pragmático: De Aprendiz a Mestre* — Andrew Hunt & David Thomas
+* *Aprenda Domain-Driven Design* — Vlad Khononov
+* *Clean Code* & *Clean Architecture* — Robert C. Martin
+* *Design Patterns* — Erich Gamma et al.
+* *Refactoring* — Martin Fowler
+
+---
+
+## 🌐 Conecte-se Comigo
+
+Para conhecer mais sobre meu trabalho e artigos técnicos, visite meu site:
+👉 **[thiagoodev.com.br](https://thiagoodev.com.br)**
+
+<p align="left">
+<a href="mailto:contato@thiagoodev.com.br">![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/thiagoodev/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/thiagoodev/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 </p>
-
----
-
-## 🚀 Projects
-
-- [**Vaden**](https://vaden.dev/) — Backend framework in Dart ([Flutterando](https://flutterando.dev))  
-- Cross-platform mobile apps with Flutter focusing on **performance, scalability, and user experience**  
-- Applications using **Kotlin Multiplatform** for **shared business logic** across platforms  
-- Backend development with **Spring Boot** and Java, building **scalable server-side solutions**
-
----
-
-## 📚 Books I've Read
-
-- *Clean Code* — Robert C. Martin  
-- *Clean Architecture* — Robert C. Martin  
-- *Design Patterns* — Erich Gamma et al.  
-- *Refactoring* — Martin Fowler  
-- *Kotlin with Android* — Kassiano Resende  
-- *Native Android with Kotlin and MVVM* — Paulo Salvatore  
-- *The Dart Guide* — Julio Bitencourt  
-
----
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contato@thiagoodev.com.br)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoodev/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoodev/)  
-
----
-
-## ⚡ Fun Facts
-
-- I love **understanding how technology works**, from fundamentals to advanced solutions  
-- I am driven by **efficiency** and **clean coding practices**  
-- I believe **end-user satisfaction** is as important as **system robustness**
