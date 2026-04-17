@@ -47,7 +47,13 @@ Para conhecer mais sobre meu trabalho e artigos técnicos, visite meu site:
 👉 **[thiagoodev.com.br](https://thiagoodev.com.br)**
 
 <p align="left">
-<a href="mailto:contato@thiagoodev.com.br">![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/thiagoodev/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/thiagoodev/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="mailto:contato@thiagoodev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/thiagoodev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/thiagoodev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
