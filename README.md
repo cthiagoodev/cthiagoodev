@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou o Thiago Sousa
+# 👋 Hi, I'm Thiago Sousa
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou **Engenheiro de Software** com sólida experiência em **Rust, Dart, Flutter, Kotlin, Java** e **Spring Boot**. 
-Desenvolvo aplicações cross-platform, sistemas de alta performance e soluções de backend escaláveis seguindo **Clean Architecture** e as melhores práticas de engenharia.
+I am a **Software Engineer** with solid experience in **Rust, Go, Dart, Flutter**, and backend ecosystems.
+I develop cross-platform applications, high-performance systems, and scalable backend solutions following **Clean Architecture** and engineering best practices.
 
-Sou fundador da **Mobile Devs Ceará**, uma comunidade focada em unir e fortalecer desenvolvedores mobile da nossa região.
+I am the founder of **Mobile Devs Ceará**, a community focused on uniting and strengthening mobile developers in our region.
 
-> "Resolver problemas de forma eficiente e dominar as entranhas da tecnologia é o que me move todos os dias."
+> "Solving problems efficiently and mastering the inner workings of technology is what moves me every day."
 
 ---
 
@@ -15,29 +15,15 @@ Sou fundador da **Mobile Devs Ceará**, uma comunidade focada em unir e fortalec
 
 | | | |
 | :---: | :---: | :---: |
-| <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50" alt="Rust"/></a><br>**Rust** | <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/></a><br>**Dart** | <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/></a><br>**Flutter** |
-| <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/></a><br>**Kotlin** | <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/></a><br>**Java** | <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/></a><br>**Spring Boot** |
-| <a href="https://jaspr.site/"><img src="https://raw.githubusercontent.com/schultek/jaspr/refs/heads/main/assets/logo_outline.png" width="50" height="50" alt="Jaspr"/></a><br>**Jaspr** | <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/></a><br>**Docker** | <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></a><br>**Firebase** |
+| <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/></a><br>**Go** | <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart"/></a><br>**Dart** | <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/></a><br>**Flutter** |
+| <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50" alt="Rust"/></a><br>**Rust** | <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/></a><br>**Docker** | <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/></a><br>**Firebase** |
 
 ---
 
 ## 🚀 Projetos & Atuação
 
-* **Sistemas de Performance e Segurança:** Desenvolvimento de soluções robustas de baixo nível e alta performance utilizando **Rust**.
-* **Aplicações Mobile:** Criação de aplicativos modernos e escaláveis com **Dart** e **Flutter**.
-* **Backend:** Construção de APIs e microsserviços com **Spring Boot**, **Kotlin** e **Java**.
 * [**Vaden**](https://vaden.dev/) — Framework de backend em Dart ([Flutterando](https://flutterando.dev)).
-
----
-
-## 📚 Biblioteca Pessoal (Destaques)
-
-* *Fundamentos da Arquitetura de Software* — Mark Richards & Neal Ford
-* *O Programador Pragmático: De Aprendiz a Mestre* — Andrew Hunt & David Thomas
-* *Aprenda Domain-Driven Design* — Vlad Khononov
-* *Clean Code* & *Clean Architecture* — Robert C. Martin
-* *Design Patterns* — Erich Gamma et al.
-* *Refactoring* — Martin Fowler
+* [**Meu Portfólio**](https://www.thiagoodev.com.br) — Website pessoal e vitrine de projetos desenvolvido em Go.
 
 ---
 
